@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BankingChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "500000 10"
+    }
+  }
+}
